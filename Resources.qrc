@@ -1,0 +1,41 @@
+<RCC>
+    <qresource prefix="/Resources">
+        <file>Resources/back_icon.png</file>
+        <file>Resources/background_image.jpg</file>
+        <file>Resources/battery_car.png</file>
+        <file>Resources/battery_icon.png</file>
+        <file>Resources/battery_usage.png</file>
+        <file>Resources/car_icon.png</file>
+        <file>Resources/charger_icon.png</file>
+        <file>Resources/chart_icon.png</file>
+        <file>Resources/frontcam_view.gif</file>
+        <file>Resources/fuel_icon.svg</file>
+        <file>Resources/home_icon.png</file>
+        <file>Resources/indicator_active.png</file>
+        <file>Resources/indicator_inactive.png</file>
+        <file>Resources/leftcam_view.gif</file>
+        <file>Resources/map_icon.png</file>
+        <file>Resources/music_icon.png</file>
+        <file>Resources/musicalcd_icon.gif</file>
+        <file>Resources/odometer_icon.png</file>
+        <file>Resources/pause_icon.png</file>
+        <file>Resources/phone_view.png</file>
+        <file>Resources/play_icon.png</file>
+        <file>Resources/rearcam_view.gif</file>
+        <file>Resources/rightcam_view.gif</file>
+        <file>Resources/road_icon.svg</file>
+        <file>Resources/speed_icon.svg</file>
+        <file>Resources/track_icon.png</file>
+        <file>Resources/tyre_pressure_icon.png</file>
+        <file>Resources/video_icon.png</file>
+        <file>Resources/videocam_icon.png</file>
+        <file>Resources/warning_icon.png</file>
+    </qresource>
+    <qresource prefix="/Music">
+        <file>Music/audio-1.mp3</file>
+        <file>Music/audio-2.mp3</file>
+        <file>Music/audio-3.mp3</file>
+        <file>Music/audio-4.mp3</file>
+        <file>Music/audio-5.mp3</file>
+    </qresource>
+</RCC>
