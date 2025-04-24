@@ -6,7 +6,7 @@ ApplicationWindow {
     visible: true
     width: 1600
     height: 800
-    title: qsTr("Samridhhi")
+    title: qsTr("VROOOM")
     // Left Panel
     // visibility: Window.FullScreen
 
